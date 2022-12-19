@@ -5,4 +5,4 @@ def main(s):
     Returns:
         str: answer
     """
-    return s[1:-2]
+    return s[1:-1]
